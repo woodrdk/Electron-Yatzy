@@ -1,0 +1,161 @@
+/*html{
+  background-color: black;
+  color: white;
+}
+*/
+.Points{
+  background-color: red;
+  color: white;
+}
+footer {
+    
+    background-color: red;
+    text-align: center;
+    padding-top: 0px;
+    position:fixed;bottom:0;left:0;right:0;height:30px;
+    height: 50px;
+    clear: both;
+    color: white;
+
+  }
+
+  #rules{
+    width: 100%;
+  }
+
+  #about{
+    width: 100%;
+  }
+  #header{
+    text-align: center;
+  }
+
+  #if, #if2, #if3, #if4{
+    text-align: center;
+
+  }
+  #winners{
+    margin: auto;
+    width: 50%;
+    border: 3px solid greenyellow;
+    padding: 10px;
+  }
+
+  aside {
+    background-color: greenyellow;
+    width: 25%;
+    height: 100%;
+    float: left;
+    clear: left;
+  }
+
+  .col1, .col2,.col3, .col4{
+    background-color: greenyellow;
+  }
+
+  
+  main {
+    clear: right;
+    width: 75%;
+    height: 100%;
+    float: right;
+
+  }
+  section {
+    width: 25%;
+    float: left;
+
+    
+  }
+  header{
+    background-color: black;
+    
+  }
+  img {
+    float: right;
+    width: 50%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#divRoll{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+} 
+
+#scorebuttons{
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+}
+#diced{
+  background-color: black;
+  color: white;
+  padding: 5px;
+}
+
+.yesButton,.noButton, .roll{
+  border-radius: 10px;
+}
+ .inputs{
+  border-radius: 10px;
+ }
+
+/* below is for testing rolling dice
+*/
+#container {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    background: white;
+  }
+#animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: white;
+}
+/**/
+#sendNames, #sendName{
+  border-radius: 10px;
+}
+.onePlayer, .twoPlayer, .threePlayer, .fourPlayer{
+  border-radius: 10px;
+}
+.trophys{
+  height: 100%;
+  width: auto;
+  margin: auto;
+
+}
+.fourth{
+  width: 12.5%;
+  height: 25%;
+}
+footer{
+  padding: 15px;
+  font-weight: bolder;
+  font: 16px;
+}
+
+.scoresCenter{
+  text-align: center;
+}
+
+.scoresRight{
+  text-align: right;
+}
+
+article{
+  float: right;
+  clear: both;
+}
+
+.trophy{
+  width: 50px;
+  height: 150px;
+}
