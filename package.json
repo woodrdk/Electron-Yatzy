@@ -1,23 +1,30 @@
 {
-    "name": "electron-yatzy-project",
-    "version": "1.0.0",
-    "description": "A Electron application of Yatzy",
-    "main": "main.js",
-    "scripts": {
-      "start": "electron ."
-    },
-    "repository": "https://github.com/electron/electron-quick-start",
-    "keywords": [
-      "Electron",
-      "yatzy",
-      "learning",
-      "practice",
-      "tutorial",
-      "demo"
-    ],
-    "author": "Robert M Wood Jr",
-    "license": "UNLICENSED",
-    "devDependencies": {
-      "electron": "^2.0.0"
-    }
-  }
+  "name": "electron-yatzy-project",
+  "version": "1.0.0",
+  "description": "A Electron application of Yatzy",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woodrdk/Electron-Yatzy.git"
+  },
+  "keywords": [
+    "Electron",
+    "yatzy",
+    "learning",
+    "practice",
+    "tutorial",
+    "demo"
+  ],
+  "author": "Robert M Wood Jr",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/woodrdk/Electron-Yatzy/issues"
+  },
+  "homepage": "https://github.com/woodrdk/Electron-Yatzy#readme"
+}
